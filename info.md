@@ -1,6 +1,6 @@
 ER Model:
 
-![image-20201024135118639](/Users/songzhezhu/Library/Application Support/typora-user-images/image-20201024135118639.png)
+See ER_Model_Draft.
 
 ```
 Players:
